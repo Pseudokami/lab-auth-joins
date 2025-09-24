@@ -1,17 +1,17 @@
-# SQL-JS Authentication API (JWT)
+# SQL-JS Authentication with JOINS
 
-So you ever wonder how security measures are implemented and how it works?
-This simple project demonstrates how user authentication using JSON Web Tokens work within SQL databases thru signups, registers, logging out, and accessing/retrieving accounts from authenticated users.
+JOINS for SQL can be quite confusing sometimes to implement. Theoretically, they should be simple, but applying
+them for practical purposes can get complicated really quickly specially with larger databases. This project is
+a demo on how SQL joins can work thru Apache MySQLPHP admin and PostMan!
 
 
 ---
 
 
 ## Features
-- Password hashing from registration
-- Protected routing from valid tokens
-- Secure logins and logouts
-- Endpoints with logouts from token invalidation
+- Routing and IP protection with tokenization
+- SQL joins
+- Signup/Login endpoints and unique user identifiers
 
 
 ---
@@ -28,3 +28,7 @@ cd API-Authentication-JWT/lab-auth-api
 ### 2. Set up XAMPP and opening your SQL server and Apache
 
 ### 3. Run localhost and do your post/get/put inputs from postman
+
+### 4. Run through XAMPP and open the MySQLPHP admin
+
+### 5. Do your joins with the previous auth-api database
