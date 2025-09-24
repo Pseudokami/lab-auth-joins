@@ -31,4 +31,4 @@ cd API-Authentication-JWT/lab-auth-api
 
 ### 4. Run through XAMPP and open the MySQLPHP admin
 
-### 5. Do your joins with the previous auth-api database
+### 5. Do your joins with the previous auth-api database from your MySQLPHP admin dashboard
