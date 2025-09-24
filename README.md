@@ -22,7 +22,7 @@ a demo on how SQL joins can work thru Apache MySQLPHP admin and PostMan!
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Lance-Siyhian16/API-Authentication-JWT.git
+git clone https://github.com/pseudokami/lab-auth-joins.git
 cd API-Authentication-JWT/lab-auth-api
 ```
 ### 2. Set up XAMPP and opening your SQL server and Apache
