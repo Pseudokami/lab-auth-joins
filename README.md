@@ -28,6 +28,7 @@ cd API-Authentication-JWT/lab-auth-api
 ### 2. Set up XAMPP and opening your SQL server and Apache
 
 ### 3. Run localhost and do your post/get/put inputs from postman
+    (I recommend creating more than 5 users with different roles and subqueries!)
 
 ### 4. Run through XAMPP and open the MySQLPHP admin
 
